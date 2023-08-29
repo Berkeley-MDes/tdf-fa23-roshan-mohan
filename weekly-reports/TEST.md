@@ -1,3 +1,4 @@
+
 ---
 # Example Report 1 - Week of 08/21/2023 #
 Here's an example of creating a weekly progress report, in its own file. 
