@@ -8,6 +8,9 @@ First thing was to understand computational design
 
 This short video helped a lot 
 [What is Computational Design? And 9 Concepts Related to It](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2)
+
+NURBs in parametric design was a concept new to me, I went on a little rabbit hole trying to understand NURBs
+[Intro to NURBs](https://www.3ds.com/store/cad/nurbs-modeling)
  
 # Speculations #
 in complete sentences or paragraphs, and perhaps images or videos.
