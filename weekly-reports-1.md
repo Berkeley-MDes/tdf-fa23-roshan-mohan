@@ -7,7 +7,7 @@
 
 Understanding computational design, with real-world examples:
 This short video helped a lot: <""
-[title]((https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2))
+[title](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2)
  
 # Speculations #
 in complete sentences or paragraphs, and perhaps images or videos.
