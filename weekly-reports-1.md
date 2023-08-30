@@ -6,7 +6,7 @@
 in complete sentences or paragraphs, and perhaps images or videos.
 reflections on what you learned and how you learned it
 an assessment of the state of your work
-# Speculations#
+# Speculations #
 in complete sentences or paragraphs, and perhaps images or videos.
 speculation on future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
 speculation on future direction for the work
