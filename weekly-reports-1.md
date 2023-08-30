@@ -7,8 +7,7 @@
 First thing was to understand computational design 
 
 This short video helped a lot 
-
-[What is Computational Design? And 9 Concepts Related to It]([https://www.example.com](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2))
+[What is Computational Design? And 9 Concepts Related to It]([https://www.example.com](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2)
  
 # Speculations #
 in complete sentences or paragraphs, and perhaps images or videos.
