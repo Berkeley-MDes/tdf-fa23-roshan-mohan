@@ -6,7 +6,7 @@
 <img width="1259" alt="grass1" src="https://github.com/Berkeley-MDes/tdf-fa23-roshan-mohan/assets/142958314/540de9ae-c3a5-414e-a024-3741e8eb55ff">
 
 Understanding computational design, with real-world examples:
-[title](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2](https://www.youtube.com/watch?v=sCptKvK-9Hg&list=PLnUpabNzAM_6xD42LHlE_0oTdrk3vr9hb&index=2)
+[title](https://www.example.com)
  
 # Speculations #
 in complete sentences or paragraphs, and perhaps images or videos.
