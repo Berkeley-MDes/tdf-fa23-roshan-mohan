@@ -4,6 +4,8 @@
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 
 # Reflections #
+<img width="1259" alt="grass1" src="https://github.com/Berkeley-MDes/tdf-fa23-roshan-mohan/assets/142958314/540de9ae-c3a5-414e-a024-3741e8eb55ff">
+
 in complete sentences or paragraphs, and perhaps images or videos.
 reflections on what you learned and how you learned it
 an assessment of the state of your work
