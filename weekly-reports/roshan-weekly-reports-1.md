@@ -17,14 +17,5 @@ Tried modelling a loft in Rhino and replicated the same model through Grasshoppe
 <img width="1259" alt="grass1" src="https://github.com/Berkeley-MDes/tdf-fa23-roshan-mohan/assets/142958314/25d8c9f6-22db-45e1-bb46-82b2c673f159">
 
 # Speculations #
-in complete sentences or paragraphs, and perhaps images or videos.
-speculation on future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
-speculation on future direction for the work
-bonus: thoughtful descriptions of something interesting and relevant you heard about in the news or industry publications. include text, an image, a link, and a reference that you can follow up on later and share with your peers.
-Images & Video
-images & video should be unified with your presentation (not just a folder of images)
-images & video should be directly relevant to the project (What does each shot show us?)
-Sketches, Drawings, and Diagrams
-this could include flowcharts, design files, whiteboarding, storyboards, etc
-pencil & paper sketches, drawings, post-its, etc (photographed or scanned and uploaded)
+
 ---
