@@ -1,3 +1,4 @@
+
 I needed a lightweight laptop stand that I could easily carry in my backpack. Considering acrylic's flexible properties, I noticed a lack of projects that utilized this aspect of plastic linear deformation in acrylic.
 
 So, I thought, why not create a laptop stand that flexes to the desired form and then unflexes to a flat shape? An added benefit would be the minimal use of materials.
