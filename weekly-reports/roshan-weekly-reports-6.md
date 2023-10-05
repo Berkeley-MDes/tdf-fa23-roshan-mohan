@@ -11,3 +11,4 @@ The first stage is a small scale chime that is sized like a normal wind chime bu
 
 Stage 2: BIG ROOM
 The second stage is a larger scale art installation. In this art installation, the participant will “become” the wind chime. A large tire, similar to those found in playgrounds, will hang from the ceiling at the center of the room. The participant will then sit on the tire and swing around the room, hitting certain sensor areas displayed via light sources that will then produce audio and provide a cool visualization around the room walls and floor via TouchDesigner. 
+![image](https://github.com/Berkeley-MDes/tdf-fa23-roshan-mohan/assets/142958314/05747f98-5de3-41d2-ab68-bcba37261919)
